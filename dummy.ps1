@@ -1,0 +1,1 @@
+Add-Content -Path 'C:/PSProjekte/taskplaner/text.txt' -Value (Get-Date) -Force
